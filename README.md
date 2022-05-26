@@ -7,7 +7,7 @@ build.gradle:
         ...
     }
 ```
-build.gradle:
+gradle-wrappper.properties
 ```
         ...
         distributionUrl=https\://services.gradle.org/distributions/gradle-7.2-all.zip
