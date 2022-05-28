@@ -17,3 +17,5 @@ gradle-wrappper.properties
 Note :
 
 > Change it on android gradle folder to make sure everything will be alright,OKAY!
+> <br>
+> Don`t forget to upgrade your project sdk version to latest version
